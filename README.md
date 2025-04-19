@@ -7,7 +7,7 @@
 
 <!-- GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Banner" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmprdDhtcTZqZ2l4bm0yOXdocjNmNnh0NjByOTYzeGtvdWJiZTNlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="600" alt="Coding Banner" />
 </p>
 
 <!-- Profile Views -->
