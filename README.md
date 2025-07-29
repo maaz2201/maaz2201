@@ -34,7 +34,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-Maaz%20Meman-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://maaz2201.github.io/portfolio/" target="_blank">
+    <img src="https://maaz2201.github.io/portfolio/" alt="LinkedIn" />
+  </a>
+</p>
 ---
 
 ### ⚙️ Tech Stack
