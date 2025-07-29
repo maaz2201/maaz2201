@@ -36,7 +36,7 @@
 </p>
 <p align="center">
   <a href="https://maaz2201.github.io/portfolio/" target="_blank">
-    <img src="https://maaz2201.github.io/portfolio/" alt="LinkedIn" />
+   <img src="https://img.shields.io/badge/Maaz%20Meman-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="portfolio" />
   </a>
 </p>
 ---
